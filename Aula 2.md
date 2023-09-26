@@ -7,7 +7,7 @@
   
 - [Funções e Formulas](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9) - Como utilizar fórmulas e funções, assim como soluções para corrigir erros nas mesmas;
 
-- [Importar e analisar](https://support.microsoft.com/pt-br/office/importar-e-analisar-dados-ccd3c4a6-272f-4c97-afbb-d3f27407fcde) - Como importar fonte de dados externos, como criar tabelas e gráficos, assim como classificar e filtrar informações das mesmas/
+- [Importar e analisar](https://support.microsoft.com/pt-br/office/importar-e-analisar-dados-ccd3c4a6-272f-4c97-afbb-d3f27407fcde) - Como importar fonte de dados externos, como criar tabelas e gráficos, assim como classificar e filtrar informações das mesmas;
     
 - [Formartar dados](https://support.microsoft.com/pt-br/office/inserir-e-formatar-dados-fef13169-0a84-4b92-a5ab-d856b0d7c1f7) - Como formartar as informações inseridas dentro das células, como localizar texto e númueros na planilha, como alterar o layout da sua planilha;
 
